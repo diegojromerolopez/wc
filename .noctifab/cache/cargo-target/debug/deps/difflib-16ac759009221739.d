@@ -1,0 +1,10 @@
+/Users/diegoj/repos/wc/.noctifab/cache/cargo-target/debug/deps/difflib-16ac759009221739.d: /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/lib.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/differ.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/sequencematcher.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/utils.rs
+
+/Users/diegoj/repos/wc/.noctifab/cache/cargo-target/debug/deps/libdifflib-16ac759009221739.rlib: /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/lib.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/differ.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/sequencematcher.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/utils.rs
+
+/Users/diegoj/repos/wc/.noctifab/cache/cargo-target/debug/deps/libdifflib-16ac759009221739.rmeta: /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/lib.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/differ.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/sequencematcher.rs /Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/utils.rs
+
+/Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/lib.rs:
+/Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/differ.rs:
+/Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/sequencematcher.rs:
+/Users/diegoj/.asdf/installs/rust/1.88.0/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/utils.rs:
